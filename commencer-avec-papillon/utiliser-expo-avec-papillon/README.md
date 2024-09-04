@@ -35,7 +35,7 @@ Cette commande :
 - 🌐 Lance le serveur de développement Expo
 - 📱 Affiche un QR code pour l'ouverture sur appareil physique
 - 🔧 Propose des options de lancement sur émulateur/simulateur
-- 🔄 Active le rechargement à chaud (hot reload) pour une mise à jour instantanée de l'application lors des modifications du code
+- 🔄 Active le rechargement auto (hot reload) pour une mise à jour instantanée de l'application lors des modifications du code
 
 Options principales :
 | Option | Description |
@@ -50,7 +50,7 @@ Options principales :
 3. 🎉 L'app Papillon s'ouvrira dans Expo Go
 
 {% hint style="info" %}
-💡 Grâce au rechargement à chaud, toute modification que vous apportez au code sera immédiatement reflétée dans l'application sans avoir besoin de la redémarrer !
+💡 Grâce au rechargement auto, toute modification que vous apportez au code sera immédiatement reflétée dans l'application sans avoir besoin de la redémarrer !
 {% endhint %}
 
 ## 🔒 Utilisation avec ports non exposés
